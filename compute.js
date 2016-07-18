@@ -14,6 +14,7 @@ var num = 0.123456789,
 num.toFixed(4); // 0.1235
 (num1 + num2).toFixed(4); // 0.3000
 
+
 // 2、Math.round() & Math.pow()
 // https://yincw.github.io/javascript/ECMAScript/Math/index.html
 // 将 num 四舍五入到小数点后 n 位
